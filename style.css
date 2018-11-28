@@ -5,7 +5,7 @@ body{
   text-transform: uppercase;
   letter-spacing: .5em;
   top: 15%;
-  background: linear-gradient(to right, blue, green);
+  background: linear-gradient(to right, blue, yellow);
 }
 h1{
   font: 600 3.5em "Raleway", sans-serif;
